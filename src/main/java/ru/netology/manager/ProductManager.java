@@ -61,7 +61,6 @@ public class ProductManager {
             if (smartphone.getName().contains(search)) {
                 return true;
             }
-            return false;
         }
         return false;
     }
